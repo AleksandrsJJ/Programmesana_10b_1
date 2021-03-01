@@ -11,7 +11,7 @@ Tatjana Grencione
 5 Gaile Anna
 
 6 Griðaèova Violeta
-print(7**2-6**2)
+print(7*2-6**2)
 7 Jakovïevs Aleksandrs
 
 8 Jeroðèenkova Alîna
